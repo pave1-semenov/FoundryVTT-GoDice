@@ -19,7 +19,7 @@ export default class GodiceResolver extends FormApplication {
       width: 720,
       submitOnChange: false,
       submitOnClose: true,
-      closeOnSubmit: false,
+      closeOnSubmit: true,
     });
   }
 
